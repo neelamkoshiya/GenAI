@@ -2,6 +2,8 @@
 
 ### Want to learn more?
 
+[GenAI webpage](https://aws.amazon.com/generative-ai/)
+
 Check out [Amazon SageMaker JumpStart](https://aws.amazon.com/sagemaker/jumpstart)
 
 Get Started from our [JumpStart Hub](https://aws.amazon.com/sagemaker/jumpstart/getting-started)
@@ -23,3 +25,4 @@ Get Started from our [JumpStart Hub](https://aws.amazon.com/sagemaker/jumpstart/
 [Amazon SageMaker JumpStart - Foundation Models](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
 
 [LLM Hosting](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop)
+
