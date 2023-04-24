@@ -19,9 +19,9 @@ Get Started from our [JumpStart Hub](https://aws.amazon.com/sagemaker/jumpstart/
 
 [LLM on Amazon SageMaker](https://d1.awsstatic.com/events/Summits/reinvent2022/AIM405_Train-and-deploy-large-language-models-on-Amazon-SageMaker.pdf)
 
-##### [New Gen AI services announcement blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
+#### [New Gen AI services announcement blog](https://aws.amazon.com/blogs/machine-learning/announcing-new-tools-for-building-with-generative-ai-on-aws/)
 
-##### GitHub Examples:
+#### GitHub Examples:
 [Amazon SageMaker JumpStart - Foundation Models](https://github.com/aws/amazon-sagemaker-examples/tree/main/introduction_to_amazon_algorithms/jumpstart-foundation-models)
 
 [LLM Hosting](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop)
