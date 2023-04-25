@@ -1,4 +1,4 @@
-# GenAI Seattle AWS engineers meetup April 25 2023
+# GenAI - Seattle AWS engineers meetup April 25 2023
 
 ### Want to learn more?
 
