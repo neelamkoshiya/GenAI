@@ -26,5 +26,11 @@ Get Started from our [JumpStart Hub](https://aws.amazon.com/sagemaker/jumpstart/
 
 [LLM Hosting](https://github.com/aws/amazon-sagemaker-examples/tree/main/inference/generativeai/llm-workshop)
 
+#### HELM
+[Holistic Evaluation of Language Models](https://crfm.stanford.edu/helm/latest/)
+
+#### Attention is all you need
+[Attention is all you need] (https://arxiv.org/abs/1706.03762)
+
 ### Survey - We want to hear from you!!!
 https://pulse.buildon.aws/survey/J0HRPJ4R
