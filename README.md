@@ -1,4 +1,4 @@
-# GenAI - Seattle AWS engineers meetup April 25 2023
+# GenAI - resources
 
 ### Want to learn more?
 
@@ -32,5 +32,4 @@ Get Started from our [JumpStart Hub](https://aws.amazon.com/sagemaker/jumpstart/
 #### Attention is all you need
 [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
-### Survey - We want to hear from you!!!
-https://pulse.buildon.aws/survey/J0HRPJ4R
+
